@@ -80,6 +80,15 @@ h3, p {
     margin-bottom: 22px;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: #4CA247;
+}
+
 body {
     margin: 0;
     /*color: #2C6028;*/
